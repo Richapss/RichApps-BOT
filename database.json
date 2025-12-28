@@ -1,0 +1,250 @@
+{
+  "user": {
+    "6282277253795@s.whatsapp.net": {
+      "name": "Rc 19",
+      "limit": 100,
+      "register": true,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "age": 16,
+      "regTime": 1766835592441,
+      "sn": "7C6E981D"
+    },
+    "62882016795497@s.whatsapp.net": {
+      "name": "kaje shift mlm",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "120363403716514348@newsletter": {
+      "name": "User",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6288976642699@s.whatsapp.net": {
+      "name": "owner gina",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6281264284704@s.whatsapp.net": {
+      "name": "nae",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6285847246400@s.whatsapp.net": {
+      "name": "BACA BIO!!!",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "62895329663272@s.whatsapp.net": {
+      "name": "richapps no bot",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6281294994201@s.whatsapp.net": {
+      "name": "MIMINN",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "62882016901033@s.whatsapp.net": {
+      "name": "User",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "saldo": 0
+    },
+    "": {
+      "name": "User",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "saldo": 0
+    },
+    "6283142695799@s.whatsapp.net": {
+      "name": "k",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "saldo": 0
+    },
+    "62895406712381@s.whatsapp.net": {
+      "name": "lita bittersweet",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "saldo": 0
+    },
+    "6282227096767@s.whatsapp.net": {
+      "name": "...",
+      "limit": 100,
+      "register": false,
+      "owner": false,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      },
+      "saldo": 0
+    }
+  },
+  "group": {
+    "120363404780376428@g.us": {
+      "mute": false,
+      "sewa": {
+        "status": false,
+        "expired": 0
+      },
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "warnings": {},
+      "banchat": false
+    },
+    "120363404373498929@g.us": {
+      "mute": false,
+      "sewa": {
+        "status": false,
+        "expired": 0
+      },
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "warnings": {},
+      "banchat": false
+    },
+    "120363405544434868@g.us": {
+      "mute": false,
+      "sewa": {
+        "status": false,
+        "expired": 0
+      },
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "warnings": {},
+      "banchat": false
+    },
+    "120363234418044810@g.us": {
+      "mute": false,
+      "sewa": {
+        "status": false,
+        "expired": 0
+      },
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "warnings": {},
+      "banchat": false
+    }
+  },
+  "settings": {
+    "self": false,
+    "online": true,
+    "lastReset": "2025-12-28"
+  },
+  "owner": []
+}
